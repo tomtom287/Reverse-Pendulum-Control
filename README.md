@@ -1,6 +1,17 @@
 # Reverse-Pendulum-Control
 
 
-# Design 
+# Description of Problem
 
-what does this do 
+# Background Information 
+
+# Description of Design 
+
+# Video Demo 
+
+# Conclusion 
+
+# Works Cited 
+
+
+
