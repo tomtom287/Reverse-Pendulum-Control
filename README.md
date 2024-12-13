@@ -1,7 +1,5 @@
  # Reverse-Pendulum-Control
 
- # Reverse-Pendulum-Control
-
 # Description of Problem
 Our Project is the implementation of the reverse pendulum problem on an FPGA and VGA display. This problem in 2D involves a horizontal line attempting to "balance" a vertical line. A similar example is if you attmepted to balance a rod perfectly vertical on your hand. Due to gravity the pendulum wants to fall, but the movement of the horizontal line (with some mass) alters the motion of the pendulum. 
 
